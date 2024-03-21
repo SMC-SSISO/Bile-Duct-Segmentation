@@ -14,12 +14,12 @@
 
 **Original video**
 
-![test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/gifs/test_video.gif)
-
+![test_video.gif](https://github.com/SMC-SSISO/Bile-Duct-Segmentation/blob/main/gifs/test_video.gif)
+                
 **Inferenced video**
 
-![inferenced_test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/gifs/inferenced_test_video.gif)
-
+![inferenced_test_video.gif](https://github.com/SMC-SSISO/Bile-Duct-Segmentation/blob/main/gifs/inferenced_test_video.gif)
+                             
 ## Requiremenets
 
 pytorch==2.2.1
