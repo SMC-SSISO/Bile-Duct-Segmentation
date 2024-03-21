@@ -14,11 +14,11 @@
 
 **Original video**
 
-![test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/test_video.gif)
+![test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/gifs/test_video.gif)
 
 **Inferenced video**
 
-![inferenced_test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/inferenced_test_video.gif)
+![inferenced_test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/gifs/inferenced_test_video.gif)
 
 ## Requiremenets
 
