@@ -5,9 +5,9 @@
 
 ## Usage
 
-- You can reproduce this model using jupyter notebook we provided
-- You just need to modify the `model_path` and `video_path` within the ‘inferece.ipynb’ file.
-- you can also download the model weights and a sample video from the link below.
+- You can reproduce this model using jupyter notebook we provided.
+- You just need to modify the `model_path` and `video_path` within the `inference.ipynb` file.
+- You can also download the model weights and a sample video from the link below.
     - https://1drv.ms/f/c/9db2e01a687d3baf/Eg-0KAOhkxxPl5UBGBRjX7ABuhzL9Zm6A7uwc5zZfEgPdg?e=0vYW67
 
 ## Preview
