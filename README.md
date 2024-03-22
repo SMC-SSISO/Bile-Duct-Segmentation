@@ -14,11 +14,11 @@
 
 **Original video**
 
-![test_video.gif](https://github.com/SMC-SSISO/Bile-Duct-Segmentation/blob/main/gifs/test_video.gif)
+![test_video_clip.gif](https://github.com/SMC-SSISO/Bile-Duct-Segmentation/blob/main/gifs/test_video_clip.gif)
                 
 **Inferenced video**
 
-![inferenced_test_video.gif](https://github.com/SMC-SSISO/Bile-Duct-Segmentation/blob/main/gifs/inferenced_test_video.gif)
+![inferenced_test_video_clip.gif](https://github.com/SMC-SSISO/Bile-Duct-Segmentation/blob/main/gifs/inferenced_test_video_clip.gif)
                              
 ## Requiremenets
 
